@@ -1,5 +1,8 @@
 # Polymer Patch for More Delight
 
+> [!NOTE]
+> This is a fork of https://github.com/SunPhoen1x/More-Deligth-Patch for Minecraft 1.21.11.
+
 This is a patch for **[More Delight](https://modrinth.com/mod/more-delight)**, making it work fully server side, with all of its functionality intact.
 
 More Delight is required and not included within this mod.
