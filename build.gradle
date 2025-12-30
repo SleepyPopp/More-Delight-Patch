@@ -28,7 +28,7 @@ dependencies {
 	modImplementation ("eu.pb4:polymer-autohost:${polymer_version}")
 	modImplementation ("eu.pb4:polymer-resource-pack-extras:[${polymer_version}]")
 	modImplementation include ("eu.pb4:factorytools:[${factorytools_version}]")
-	modCompileOnly 'maven.modrinth:more-delight:NvzpD2uF'
+	modCompileOnly 'maven.modrinth:more-delight:25.12.10-1.21.11-fabric'
 }
 
 processResources {
